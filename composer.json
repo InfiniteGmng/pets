@@ -1,0 +1,12 @@
+{
+  "name": "noahlanc/328/pets",
+  "authors": [
+    {
+      "name": "Noah Lanctot",
+      "email": "lanctot.noah@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
